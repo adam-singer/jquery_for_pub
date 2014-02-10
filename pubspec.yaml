@@ -1,0 +1,6 @@
+name: jquery_for_pub
+description: Just jQuery's files, in a pub package.
+authors:
+- jQuery core team
+version: 1.0.0
+homepage: https://github.com/financeCoding/jquery_for_pub
